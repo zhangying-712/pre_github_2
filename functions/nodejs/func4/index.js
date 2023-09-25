@@ -16,7 +16,7 @@ module.exports = async function (params, context, logger) {
 	// 在这里补充业务代码
   logger.info("部署发布")
   logger.info("部署发布2")
-  logger.info("a分支部署")
+  logger.info("develop分支部署")
 
 
 }
