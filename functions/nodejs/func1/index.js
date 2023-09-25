@@ -18,5 +18,6 @@ module.exports = async function (params, context, logger) {
   logger.info("测试2")
   logger.info("测试3")
   logger.info("测试4")
+  logger.info("测试5")
 
 }
