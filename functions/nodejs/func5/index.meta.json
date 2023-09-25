@@ -1,0 +1,15 @@
+{
+  "apiID": "package_b1b905__c__function_aadfbqmd2lkgi",
+  "apiName": "func5",
+  "label": {
+    "zh_CN": "func5",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "a分支创建",
+    "en_US": ""
+  },
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
